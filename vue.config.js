@@ -8,6 +8,6 @@ module.exports = {
         .loader('worker-loader');
     },
     publicPath: process.env.NODE_ENV === 'production'
-    ? '/image-filters/'
+    ? '/image-filters/dist/'
     : '/',
 };
