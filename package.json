@@ -42,6 +42,5 @@
   "browserslist": [
     "> 1%",
     "last 2 versions"
-  ],
-  "homepage": "http://bchoubert.github.io/image-filters/build"
+  ]
 }
